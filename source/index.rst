@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
     
    installation
-   use_cases
+   user_stories
 
 Indices and tables
 ==================

@@ -37,6 +37,9 @@ Contributing
 
     Edit the files in oerpub-web-ui-docs/source with your favourite text editor.
 
+    Quick guide to rst:
+        http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt
+
 Install Sphinx
 --------------
     
