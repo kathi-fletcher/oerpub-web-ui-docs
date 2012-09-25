@@ -15,7 +15,7 @@ the proposed system.
 Upload new module
 ~~~~~~~~~~~~~~~~~
     #. The user logs into the system with her Connexions credentials.
-        http://mountainbunker.org/~maxwell/oerpub
+        http://mountainbunker.org/~maxwell/oerpub/front-page-06.html
 
     #. She chooses to upload a new document and supplies the document.
         http://mountainbunker.org/~maxwell/oerpub
@@ -38,7 +38,7 @@ Upload new module
 Upload new content over existing module
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     #. The user logs into the system with her Connexions credentials.
-        http://mountainbunker.org/~maxwell/oerpub
+        http://mountainbunker.org/~maxwell/oerpub/front-page-06.html
 
     #. She chooses to upload a new document and supplies the document.
         http://mountainbunker.org/~maxwell/oerpub
@@ -67,4 +67,7 @@ Upload new content over existing module
 Fetch, edit and upload over existing module
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     #. The user logs into the system with her Connexions credentials.
-        http://mountainbunker.org/~maxwell/oerpub
+        http://mountainbunker.org/~maxwell/oerpub/front-page-06.html
+
+    #. She chooses to 'Edit a new or existing module'.
+        http://mountainbunker.org/~maxwell/oerpub/choose-28.html
